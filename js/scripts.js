@@ -16,7 +16,7 @@ $(document).ready(function() {
   });
 
   $("p").click(function(){
-    $("#pp").toggleClass("highlight");
+    $("#about").toggleClass("highlight");
 
   });
 });
